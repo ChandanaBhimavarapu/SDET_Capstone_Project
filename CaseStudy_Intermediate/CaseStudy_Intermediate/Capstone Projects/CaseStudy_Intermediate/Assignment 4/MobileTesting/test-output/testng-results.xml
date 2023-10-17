@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-17T17:07:04 IST" name="Default suite" finished-at="2023-09-17T17:07:23 IST" duration-ms="19100">
+    <groups>
+    </groups>
+    <test started-at="2023-09-17T17:07:04 IST" name="Default test" finished-at="2023-09-17T17:07:23 IST" duration-ms="19100">
+      <class name="SDET_capstone.MobileTesting.Caluculator">
+        <test-method signature="AppiumApplcation()[pri:0, instance:SDET_capstone.MobileTesting.Caluculator@49049a04]" started-at="2023-09-17T17:07:04 IST" name="AppiumApplcation" finished-at="2023-09-17T17:07:23 IST" duration-ms="19044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumApplcation -->
+      </class> <!-- SDET_capstone.MobileTesting.Caluculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
